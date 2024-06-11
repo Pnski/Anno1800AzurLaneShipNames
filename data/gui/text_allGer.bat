@@ -1,0 +1,10 @@
+copy texts_german.xml texts_chinese.xml
+copy texts_german.xml texts_english.xml
+copy texts_german.xml texts_french.xml
+copy texts_german.xml texts_italian.xml
+copy texts_german.xml texts_japanese.xml
+copy texts_german.xml texts_korean.xml
+copy texts_german.xml texts_polish.xml
+copy texts_german.xml texts_russian.xml
+copy texts_german.xml texts_spanish.xml
+copy texts_german.xml texts_taiwanese.xml
