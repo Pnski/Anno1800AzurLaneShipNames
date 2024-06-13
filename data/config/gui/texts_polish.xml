@@ -209,4 +209,58 @@
   <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '10811']/Text"><Text>Brennus</Text></ModOp>
   <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '10812']/Text"><Text>Maury</Text></ModOp>
   <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '10813']/Text"><Text>Charles Ausburne</Text></ModOp>
+  <!--Africa-->
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23590']/Text"><Text>Laffey</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23599']/Text"><Text>Helena</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23600']/Text"><Text>Cleveland</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23601']/Text"><Text>Columbia</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23602']/Text"><Text>Brennus</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23603']/Text"><Text>Maury</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23604']/Text"><Text>Charles Ausburne</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23605']/Text"><Text>Laffey</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23606']/Text"><Text>Helena</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23607']/Text"><Text>Cleveland</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23608']/Text"><Text>Columbia</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23591']/Text"><Text>Houston</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23609']/Text"><Text>Indianapolis</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23610']/Text"><Text>Astoria</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23611']/Text"><Text>Quincy</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23612']/Text"><Text>Vincennes</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23613']/Text"><Text>Wichita</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23614']/Text"><Text>Arizona</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23615']/Text"><Text>Colorado</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23616']/Text"><Text>Maryland</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23617']/Text"><Text>West Virginia</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23618']/Text"><Text>Lexington</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23592']/Text"><Text>Saratoga</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23619']/Text"><Text>Yorktown</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23620']/Text"><Text>Hornet</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23621']/Text"><Text>Vestal</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23622']/Text"><Text>Grenville</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23623']/Text"><Text>Glowworm</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23624']/Text"><Text>Hardy</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23625']/Text"><Text>Javelin</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23626']/Text"><Text>Vampire</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23627']/Text"><Text>Sheffield</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23628']/Text"><Text>Manchester</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23593']/Text"><Text>Gloucester</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23629']/Text"><Text>Edinburgh</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23630']/Text"><Text>Aurora</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23631']/Text"><Text>London</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23632']/Text"><Text>Dorsetshire</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23633']/Text"><Text>York</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23634']/Text"><Text>Exeter</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23635']/Text"><Text>Renown</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23636']/Text"><Text>Queen Elizabeth</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23637']/Text"><Text>Nelson</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23638']/Text"><Text>Rodney</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23594']/Text"><Text>Unicorn</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23639']/Text"><Text>Eagle</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23640']/Text"><Text>Ark Royal</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23641']/Text"><Text>Glorious</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23642']/Text"><Text>Erebus</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23595']/Text"><Text>Terror</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23596']/Text"><Text>Fubuki</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23597']/Text"><Text>Shirayuki</Text></ModOp>
+  <ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23598']/Text"><Text>Miyuki</Text></ModOp>
 </ModOps>

@@ -209,4 +209,58 @@
   <ModOp Type="replace" GUID = '10811' Path="/Values/Text/LocaText/English/Text"><Text>Brennus</Text></ModOp>
   <ModOp Type="replace" GUID = '10812' Path="/Values/Text/LocaText/English/Text"><Text>Maury</Text></ModOp>
   <ModOp Type="replace" GUID = '10813' Path="/Values/Text/LocaText/English/Text"><Text>Charles Ausburne</Text></ModOp>
-  </ModOps>
+  <!--Africa-->
+  <ModOp Type="replace" GUID = '23590' Path="/Values/Text/LocaText/English/Text"><Text>Laffey</Text></ModOp>
+  <ModOp Type="replace" GUID = '23599' Path="/Values/Text/LocaText/English/Text"><Text>Helena</Text></ModOp>
+  <ModOp Type="replace" GUID = '23600' Path="/Values/Text/LocaText/English/Text"><Text>Cleveland</Text></ModOp>
+  <ModOp Type="replace" GUID = '23601' Path="/Values/Text/LocaText/English/Text"><Text>Columbia</Text></ModOp>
+  <ModOp Type="replace" GUID = '23602' Path="/Values/Text/LocaText/English/Text"><Text>Houston</Text></ModOp>
+  <ModOp Type="replace" GUID = '23603' Path="/Values/Text/LocaText/English/Text"><Text>Indianapolis</Text></ModOp>
+  <ModOp Type="replace" GUID = '23604' Path="/Values/Text/LocaText/English/Text"><Text>Astoria</Text></ModOp>
+  <ModOp Type="replace" GUID = '23605' Path="/Values/Text/LocaText/English/Text"><Text>Quincy</Text></ModOp>
+  <ModOp Type="replace" GUID = '23606' Path="/Values/Text/LocaText/English/Text"><Text>Vincennes</Text></ModOp>
+  <ModOp Type="replace" GUID = '23607' Path="/Values/Text/LocaText/English/Text"><Text>Wichita</Text></ModOp>
+  <ModOp Type="replace" GUID = '23608' Path="/Values/Text/LocaText/English/Text"><Text>Arizona</Text></ModOp>
+  <ModOp Type="replace" GUID = '23591' Path="/Values/Text/LocaText/English/Text"><Text>Colorado</Text></ModOp>
+  <ModOp Type="replace" GUID = '23609' Path="/Values/Text/LocaText/English/Text"><Text>Maryland</Text></ModOp>
+  <ModOp Type="replace" GUID = '23610' Path="/Values/Text/LocaText/English/Text"><Text>West Virginia</Text></ModOp>
+  <ModOp Type="replace" GUID = '23611' Path="/Values/Text/LocaText/English/Text"><Text>Lexington</Text></ModOp>
+  <ModOp Type="replace" GUID = '23612' Path="/Values/Text/LocaText/English/Text"><Text>Saratoga</Text></ModOp>
+  <ModOp Type="replace" GUID = '23613' Path="/Values/Text/LocaText/English/Text"><Text>Yorktown</Text></ModOp>
+  <ModOp Type="replace" GUID = '23614' Path="/Values/Text/LocaText/English/Text"><Text>Hornet</Text></ModOp>
+  <ModOp Type="replace" GUID = '23615' Path="/Values/Text/LocaText/English/Text"><Text>Vestal</Text></ModOp>
+  <ModOp Type="replace" GUID = '23616' Path="/Values/Text/LocaText/English/Text"><Text>Grenville</Text></ModOp>
+  <ModOp Type="replace" GUID = '23617' Path="/Values/Text/LocaText/English/Text"><Text>Glowworm</Text></ModOp>
+  <ModOp Type="replace" GUID = '23618' Path="/Values/Text/LocaText/English/Text"><Text>Hardy</Text></ModOp>
+  <ModOp Type="replace" GUID = '23592' Path="/Values/Text/LocaText/English/Text"><Text>Javelin</Text></ModOp>
+  <ModOp Type="replace" GUID = '23619' Path="/Values/Text/LocaText/English/Text"><Text>Vampire</Text></ModOp>
+  <ModOp Type="replace" GUID = '23620' Path="/Values/Text/LocaText/English/Text"><Text>Sheffield</Text></ModOp>
+  <ModOp Type="replace" GUID = '23621' Path="/Values/Text/LocaText/English/Text"><Text>Manchester</Text></ModOp>
+  <ModOp Type="replace" GUID = '23622' Path="/Values/Text/LocaText/English/Text"><Text>Gloucester</Text></ModOp>
+  <ModOp Type="replace" GUID = '23623' Path="/Values/Text/LocaText/English/Text"><Text>Edinburgh</Text></ModOp>
+  <ModOp Type="replace" GUID = '23624' Path="/Values/Text/LocaText/English/Text"><Text>Aurora</Text></ModOp>
+  <ModOp Type="replace" GUID = '23625' Path="/Values/Text/LocaText/English/Text"><Text>London</Text></ModOp>
+  <ModOp Type="replace" GUID = '23626' Path="/Values/Text/LocaText/English/Text"><Text>Dorsetshire</Text></ModOp>
+  <ModOp Type="replace" GUID = '23627' Path="/Values/Text/LocaText/English/Text"><Text>York</Text></ModOp>
+  <ModOp Type="replace" GUID = '23628' Path="/Values/Text/LocaText/English/Text"><Text>Exeter</Text></ModOp>
+  <ModOp Type="replace" GUID = '23593' Path="/Values/Text/LocaText/English/Text"><Text>Renown</Text></ModOp>
+  <ModOp Type="replace" GUID = '23629' Path="/Values/Text/LocaText/English/Text"><Text>Queen Elizabeth</Text></ModOp>
+  <ModOp Type="replace" GUID = '23630' Path="/Values/Text/LocaText/English/Text"><Text>Nelson</Text></ModOp>
+  <ModOp Type="replace" GUID = '23631' Path="/Values/Text/LocaText/English/Text"><Text>Rodney</Text></ModOp>
+  <ModOp Type="replace" GUID = '23632' Path="/Values/Text/LocaText/English/Text"><Text>Unicorn</Text></ModOp>
+  <ModOp Type="replace" GUID = '23633' Path="/Values/Text/LocaText/English/Text"><Text>Eagle</Text></ModOp>
+  <ModOp Type="replace" GUID = '23634' Path="/Values/Text/LocaText/English/Text"><Text>Ark Royal</Text></ModOp>
+  <ModOp Type="replace" GUID = '23635' Path="/Values/Text/LocaText/English/Text"><Text>Glorious</Text></ModOp>
+  <ModOp Type="replace" GUID = '23636' Path="/Values/Text/LocaText/English/Text"><Text>Erebus</Text></ModOp>
+  <ModOp Type="replace" GUID = '23637' Path="/Values/Text/LocaText/English/Text"><Text>Terror</Text></ModOp>
+  <ModOp Type="replace" GUID = '23638' Path="/Values/Text/LocaText/English/Text"><Text>Fubuki</Text></ModOp>
+  <ModOp Type="replace" GUID = '23594' Path="/Values/Text/LocaText/English/Text"><Text>Shirayuki</Text></ModOp>
+  <ModOp Type="replace" GUID = '23639' Path="/Values/Text/LocaText/English/Text"><Text>Miyuki</Text></ModOp>
+  <ModOp Type="replace" GUID = '23640' Path="/Values/Text/LocaText/English/Text"><Text>Ayanami</Text></ModOp>
+  <ModOp Type="replace" GUID = '23641' Path="/Values/Text/LocaText/English/Text"><Text>Hibiki</Text></ModOp>
+  <ModOp Type="replace" GUID = '23642' Path="/Values/Text/LocaText/English/Text"><Text>Shigure</Text></ModOp>
+  <ModOp Type="replace" GUID = '23595' Path="/Values/Text/LocaText/English/Text"><Text>Nowaki</Text></ModOp>
+  <ModOp Type="replace" GUID = '23596' Path="/Values/Text/LocaText/English/Text"><Text>Yuubari</Text></ModOp>
+  <ModOp Type="replace" GUID = '23597' Path="/Values/Text/LocaText/English/Text"><Text>Natori</Text></ModOp>
+  <ModOp Type="replace" GUID = '23598' Path="/Values/Text/LocaText/English/Text"><Text>Yura</Text></ModOp>
+</ModOps>
