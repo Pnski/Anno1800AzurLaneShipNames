@@ -1,4 +1,4 @@
-<ModOps>
+<ModOps><!--isn't needed just as backup-->
   <ModOp Type="replace" GUID = '2302' Path="/Values/Text/LocaText/English/Text"><Text>Friedrich der Große</Text></ModOp>
   <ModOp Type="replace" GUID = '10723' Path="/Values/Text/LocaText/English/Text"><Text>Hakuryuu</Text></ModOp>
   <ModOp Type="replace" GUID = '10814' Path="/Values/Text/LocaText/English/Text"><Text>Ägir</Text></ModOp>
