@@ -1,4 +1,4 @@
-List of filters
+# Nations
 
 | In-game Nation | Prefix | Belligerent |
 | --- | --- | --- |
@@ -16,7 +16,7 @@ List of filters
 | Vichya Dominion | MNF | Vichy France |
 | Sardegna Empire | RN | Kingdom of Italy |
 
-Table:
+# List of filters
 | | Tempesta | Eagle Union| Royal Navy| Sakura Empire| Iron Blood	| Dragon Empery | Northern Parliament | Iris | Vichya Dominion | Sardegna Empire |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CN/TW | --- | x | x | --- | --- | x | x | --- | --- | --- |
